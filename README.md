@@ -1,2 +1,2 @@
 # Testowy
-Repozytorium z kursu Praktyczny kurs testowania oprogramowania
+Repozytorium "Praktyczny kurs testowania oprogramowania"
